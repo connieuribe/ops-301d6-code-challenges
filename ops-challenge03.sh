@@ -3,7 +3,7 @@
 # Script: Ops 301 Class 03 Ops Challenge Solution
 # Author: Connie Uribe Chavez
 # Date of lates revision: 15 Mar 2023
-# Purpose: Appends the current date and time to the filename
+# Purpose: Use chmod to modify the permissions of the files in a directory
 
 # Main
 
