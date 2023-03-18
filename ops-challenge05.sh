@@ -4,6 +4,8 @@
 # Author: Connie Uribe Chavez
 # Date of lates revision: 16 Mar 2023
 # Purpose: Clearing logs
+# Reference: https://www.networkworld.com/article/3538471/how-to-compress-files-on-linux-5-ways.html
+# https://www.baeldung.com/linux/clear-file-contents
 
 # Main
 
