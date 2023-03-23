@@ -6,7 +6,7 @@
 # Purpose: Working with list
 # -------------------------------
 
-# Assign to a variable a list of ten string elements.
+
 # Print the fourth element of the list.
 # Print the sixth through tenth element of the list.
 # Change the value of the seventh element to “onion”.
@@ -14,7 +14,15 @@
 
 #Main
 
+# Assign to a variable a list of ten string elements.
+flowers = ["rose", "lily", "tulip", "jasmine", "sunflower", " dandelion", "daisy", "sweet violet", "lavender", "orchid"]
+
+# Print the fourth element of the list.
+print(flowers[3])
 
 
+# Change the value of the seventh element to “onion”.
+flowers[6] = "onion"
+print(flowers)
 
 #End
