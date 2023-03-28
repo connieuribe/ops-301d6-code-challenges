@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import os
-# Script: Ops 301 Class 09 Ops Challenge Solution
+# Script: Ops 301 Class 10 Ops Challenge Solution
 # Author: Connie Uribe Chavez
 # Date of lates revision: 23 Mar 2023
 # Purpose: Using file handling commands
