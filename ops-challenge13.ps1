@@ -2,7 +2,7 @@
 # Author: Connie Uribe Chavez
 # Date of lates revision: 30 Mar 2023
 # Purpose: AD Powershell Scripting
-
+# Reference: https://learn.microsoft.com/en-us/powershell/module/activedirectory/set-aduser?view=windowsserver2022-ps
 # Main
 
 
