@@ -11,5 +11,4 @@
 # OR office. Franz is part of the TPS Department. Franz’s email is ferdi@GlobeXpower.com.
 # Test your script. Verify in ADAC that the user was created with the correct attributes. 
 # If anything is missing, delete the user in ADAC and re-attempt from Powershell ISE.
-New-ADOrganizationalUnit -Name "TPS Department" -ProtectedFromAccidentalDeletion $false
-New-ADUser -Name "f.ferdinand" -GivenName "Franz" -Surname "Ferdinand" -Organization "TPS Department" -OtherAttributes @{'title'="TPS Reporting Lead"; 'mail'="ferdi@GlobeXpower.com"}
+New-ADUser -Name "Franz Ferdinand" -SamAccountName "f.ferdinand" -GivenName "Franz" -Surname "Ferdinand" -Organization "TPS Department" -State "Springfield" -Country "USA" -OtherAttributes @{'title'="TPS Reporting Lead"; 'mail'="ferdi@GlobeXpower.com"}
