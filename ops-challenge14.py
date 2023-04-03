@@ -1,5 +1,5 @@
 # Script: Ops 301 Class 14 Ops Challenge Solution
-# Author: Connie Uribe Chavez
+# Author: CodeFellows Staff
 # Date of lates revision: 30 Mar 2023
 # Purpose: Malware code analysis
 # Reference: ChatGPT was used in this analysis.
