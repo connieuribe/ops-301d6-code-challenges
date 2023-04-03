@@ -5,12 +5,14 @@
 # Purpose: Psutil usage
 # -------------------------------
 
+import psutil
 
 
 
 # Create a Python script that fetches this information using Psutil:
 
 # Time spent by normal processes executing in user mode
+print(psutil.cpu_times(user=true))
 # Time spent by processes executing in kernel mode
 # Time when system was idle
 # Time spent by priority processes executing in user mode
