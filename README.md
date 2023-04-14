@@ -14,7 +14,7 @@
 |Class 09   |[If statements](https://github.com/connieuribe/ops-301d6-code-challenges/blob/main/ops-challenge09.py)    |
 |Class 10   |[Using file handling commands](https://github.com/connieuribe/ops-301d6-code-challenges/blob/main/ops-challenge10.py)    |
 |Class 11   |[Psutil usage](https://github.com/connieuribe/ops-301d6-code-challenges/blob/main/ops-challenge11.py)    |
-|Class 12   |[AD Powershell Scripting](https://github.com/connieuribe/ops-301d6-code-challenges/blob/main/ops-challenge13.ps1)    |
-|Class 13   |[Code analysis](https://github.com/connieuribe/ops-301d6-code-challenges/blob/main/ops-challenge14.py)    |
-
+|Class 12   |[AD Powershell Scripting](https://github.com/connieuribe/ops-301d6-code-challenges/blob/main/ops-challenge12.py)    |
+|Class 13   |[Code analysis](https://github.com/connieuribe/ops-301d6-code-challenges/blob/main/ops-challenge13.ps1)    |
+|Class 14   |[Code analysis](https://github.com/connieuribe/ops-301d6-code-challenges/blob/main/ops-challenge14.py)    |
 
